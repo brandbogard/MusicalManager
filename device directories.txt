@@ -1,0 +1,7 @@
+windows 10 
+C:\Users\brand\AppData\Local\Packages\e63d71ba-f471-441c-b20e-f3fbe3127bc2_aezvq319j65dp\LocalState
+
+iOS
+yourUserLibrary\CoreSimulator\Devices\device-Id\data\Containers\Data\Application\your-App-Id
+
+Android

@@ -1,0 +1,40 @@
+Valid tragets
+Android			Debug Any CPU			MusicalManager.Android		Android 9.0 API 28
+iOS				Debug iPhoneSimulator	MusicalManger.iOS			iPhone 8 iOS 13.4, and iPad
+iOS				Debug iPhone			MusicalManager.iOS			connected iOS 13.4 device
+UWP/Win 10		Debug x64				MusicalManager.UWP			1903 or later
+UWP Installer	Debug x64				MusicalManger.UWP.Package
+
+4/26/2020
+First Dev note
+completed all but 2 fields for AddEditStudentPage with most fields checked for bining into and out of Student
+programmable checkboxes are working
+
+5/4/2020
+completed support for all current control types and can full display all editable form fields on UWP, iOS and Android
+
+5/5/2020
+removed Age, duplicate of Birthdate
+Added a vertical scroll bar to know how much form left
+
+5/6/2020
+Got a simple view working on StudentsPage, shows StudentName and StudentSchool
+added Changed property to allow selectively asking to cancel when changes to the loaded item are made
+
+5/6/2020
+Added help text to rehearsal selection
+Added some debug support when an exception caught
+
+5/12/2020
+Students list view complete
+Student Add, Edite, Delete complete
+first incomplete attempt to support Azure
+
+to do
+
+saving Student to a file
+Fill out Musical model
+Fill out Rehearsal model
+possibly support more complicated phone numbers, https://github.com/twcclegg/libphonenumber-csharp
+	currently just need 10 digits
+

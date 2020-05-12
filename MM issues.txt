@@ -1,0 +1,22 @@
+tim issues
+
+tabbing to any role field will take you to end parent name skipping everything
+	this shouldnt be an issue 
+	works on android sim
+	test on iOS sim
+
+phone numbers should handle dahses, currently accept spaces
+
+keyboard can use the arrow keys, that may be the desktop default or simulator
+	andriod sim uses desktop keyboard, need to test on android device, no arrows in anrdoid sim
+	iOS sim needs testing
+
+answers
+
+Conflitcs is for scheduing or appearance conflicts
+Parent medical email, student address, contact name, and Parent name is copied from contact section, as a convenience
+character choice and rehearsal selection are not implemented yet
+The student has to select atleast one character role
+age anetry and grade entry weirdness fixed
+Learn more does nothing, this can be removed
+
